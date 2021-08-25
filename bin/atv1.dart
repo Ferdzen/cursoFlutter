@@ -69,6 +69,7 @@ void main(List<String> arguments) {
   //exe3
   /*
   Usuário inserir os valores de A, B e C. Programa deverá imprimir o maior e o menor dos três.
+  Desconsiderando a possibilidade do usuário digitar valores iguais.
   */
 
   print('Digite o valor de A:');
